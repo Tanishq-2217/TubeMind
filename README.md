@@ -63,4 +63,3 @@ TubeMind/
 - [x] Text splitting & chunking (`RecursiveCharacterTextSplitter`)
 - [x] Gemini embeddings & FAISS vector store indexing
 - [x] Similarity retriever & grounded Q&A prompt pipeline
-- [ ] Refactor into a reusable LCEL chain & Streamlit/CLI interface
